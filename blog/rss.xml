@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>MetaDeFi - Decentralized Finance Data Blog</title>
+        <title>metadefi - Decentralized Finance Data Blog</title>
         <link>https://metadefi.com/blog</link>
-        <description>MetaDeFi - Decentralized Finance Data Blog</description>
+        <description>metadefi - Decentralized Finance Data Blog</description>
         <lastBuildDate>Sat, 23 Nov 2019 00:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>https://github.com/jpmonette/feed</generator>

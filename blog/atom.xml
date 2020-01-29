@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://metadefi.com/blog</id>
-    <title>MetaDeFi - Decentralized Finance Data Blog</title>
+    <title>metadefi - Decentralized Finance Data Blog</title>
     <updated>2019-11-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://metadefi.com/blog"/>
-    <subtitle>MetaDeFi - Decentralized Finance Data Blog</subtitle>
+    <subtitle>metadefi - Decentralized Finance Data Blog</subtitle>
     <icon>https://metadefi.com/img/favicon.ico</icon>
     <rights>Copyright © 2020 Brainrex, Ltd.</rights>
     <entry>
