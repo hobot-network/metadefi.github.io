@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{103:function(e){e.exports=JSON.parse('{"docsSidebars":{"docs":[{"type":"category","label":"Reference","items":[{"type":"link","label":"Top 100 DeFiprojects","href":"/docs/reference/all-defi-projects"}]}]},"permalinkToSidebar":{"/docs/reference/all-defi-projects":"docs"}}')}}]);
